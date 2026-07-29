@@ -1,6 +1,8 @@
-# Sistema de Gestión de Inventario
+\# Sistema de Gestión de Inventario
 
-## Documentación del proyecto
+
+
+\## Documentación del proyecto
 
 
 
@@ -8,9 +10,17 @@ En este documento se describe el proyecto "Sistema de Gestión de Inventario" y 
 
 
 
-\##Descripción del proyecto
+\## Descripción del proyecto
 
 
 
 El Sistema de Gestión de Inventario es una solución de software que busca mejorar la administración y el control de productos de una empresa. Este permitirá realizar acciones que ayuden con la reducción de errores y facilitar la toma de decisiones.
+
+
+
+\## Objetivo
+
+
+
+Desarrollar un sistema que permita gestionar correctamente el inventario de la empresa mediante le registro, actualización y consulta de productos, mejorando el control de las existencias.
 
