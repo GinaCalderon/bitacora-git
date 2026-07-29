@@ -24,3 +24,17 @@ El Sistema de Gestión de Inventario es una solución de software que busca mejo
 
 Desarrollar un sistema que permita gestionar correctamente el inventario de la empresa mediante le registro, actualización y consulta de productos, mejorando el control de las existencias.
 
+
+
+\## Requisitos funcionales
+
+
+
+\- Registrar nuevos productos.
+
+\- Actualizar la información de los productos.
+
+\- Consultar el inventario disponible.
+
+\- Eliminar productos cuando sea necesario.
+
