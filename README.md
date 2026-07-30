@@ -76,7 +76,28 @@ Descripción: Corrección de errores, validación del funcionamiento y elaboraci
 
 
 
-# Alcance del proyecto
+## Alcance del proyecto
 
-El alcance del proyecto se centra en el desarrollo de un sistema de gestión de inventario que permita registrar, modificar, consultar y administrar la información de los productos almacenados. Además, el sistema contribuirá al control de existencias y a la organización de la mercadería mediante un registro ordenado y actualizado de los datos. 
+El alcance del proyecto se centra en el desarrollo de un sistema de gestión de inventario que permita registrar, modificar, consultar y administrar la información de los productos almacenados. Además, el sistema contribuirá al control de existencias y a la organización de la mercadería mediante un registro ordenado y actualizado de los datos.
+
+## 
+
+## Beneficios del sistema
+
+
+
+La incorporación del Sistema de Gestión de Inventario contribuirá a mejorar el control y la organización de los productos almacenados, facilitando una administración más eficiente de los recursos. Entre los beneficios más importantes destacan los siguientes:
+
+
+
+\-Permite mantener un control más preciso sobre las existencias de los productos.
+
+\-Disminuye la posibilidad de errores durante el registro y la modificación de la información.
+
+\-Facilita la consulta rápida y oportuna de los datos del inventario.
+
+\-Agiliza las actividades relacionadas con la administración y el seguimiento de la mercadería.
+
+\-Proporciona información confiable y actualizada que respalda una mejor toma de decisiones.
+
 
