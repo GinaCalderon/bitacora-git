@@ -5,14 +5,17 @@
 En este documento se describe el proyecto "Sistema de Gestión de Inventario" y se documenta su desarrollo a través del control de versiones con Git y GitHub.
 
 
+
 ## Descripción del proyecto
 
 El Sistema de Gestión de Inventario es una solución de software que busca mejorar la administración y el control de productos de una empresa. Este permitirá realizar acciones que ayuden con la reducción de errores y facilitar la toma de decisiones.
 
 
+
 ## Objetivo
 
 Desarrollar un sistema que permita gestionar correctamente el inventario de la empresa mediante le registro, actualización y consulta de productos, mejorando el control de las existencias.
+
 
 
 ## Requisitos funcionales
@@ -50,6 +53,7 @@ Desarrollar un sistema que permita gestionar correctamente el inventario de la e
 \-Generación de reportes
 
 
+
 ## Cronograma del proyecto
 
 El desarrollo del sistema se organizará en diferentes etapas con el fin de planificar las actividades principales y garantizar el cumplimiento de los objetivos establecidos.
@@ -60,12 +64,19 @@ Descripción: Definición del alcance del proyecto, objetivos y recopilación de
 
 Semana 2
 Actividad: Análisis y diseño
-Descripción: Elaboración de la estructura del sistema, diseño de la base de datos y organización de la interfaz. 
+Descripción: Elaboración de la estructura del sistema, diseño de la base de datos y organización de la interfaz.
 
 Semana 3
-Actividad: Desarrollo 
+Actividad: Desarrollo
 Descripción: Implementación de las funcionalidades principales del sistema y pruebas preliminares.
 
 Semana 4
 Actividad: Pruebas y documentación
 Descripción: Corrección de errores, validación del funcionamiento y elaboración de la documentación final.
+
+
+
+# Alcance del proyecto
+
+El alcance del proyecto se centra en el desarrollo de un sistema de gestión de inventario que permita registrar, modificar, consultar y administrar la información de los productos almacenados. Además, el sistema contribuirá al control de existencias y a la organización de la mercadería mediante un registro ordenado y actualizado de los datos. 
+
