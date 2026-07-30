@@ -40,6 +40,20 @@ Desarrollar un sistema que permita gestionar correctamente el inventario de la e
 
 
 
+\## Requisitos no funcionales
+
+
+
+\- El sistema debe ser fácil de usar para cualquier usuario.
+
+\- Debe garantizar la integridad de los datos registrados.
+
+\- Solo usuarios autorizados pueden acceder al sistema.
+
+\- La información debe actualizarse constantemente.
+
+
+
 \## Módulos del sistema
 
 
