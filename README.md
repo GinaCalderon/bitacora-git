@@ -38,3 +38,17 @@ Desarrollar un sistema que permita gestionar correctamente el inventario de la e
 
 \- Eliminar productos cuando sea necesario.
 
+
+
+\## Módulos del sistema
+
+
+
+\-Gestión de mercadería
+
+\-Control de inventario
+
+\-Administración de usuarios
+
+\-Generación de reportes
+
